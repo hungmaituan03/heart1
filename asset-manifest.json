@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/heart1/static/css/main.9308aedc.css",
+    "main.js": "/heart1/static/js/main.5d2e5da3.js",
+    "index.html": "/heart1/index.html",
+    "main.9308aedc.css.map": "/heart1/static/css/main.9308aedc.css.map",
+    "main.5d2e5da3.js.map": "/heart1/static/js/main.5d2e5da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9308aedc.css",
+    "static/js/main.5d2e5da3.js"
+  ]
+}
